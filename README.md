@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/6cd8510d-63c8-43e1-a61f-ce4535fde718">
+![ChatGPT Image Jun 4, 2025, 11_17_02 PM](https://github.com/user-attachments/assets/29186d3d-9d04-4f76-9189-3f5f8ae1a284)
+
 
 ## Features✨
 * **AI Health Assistant**: AI-powered symptom analysis tool to identify potential medical conditions.
